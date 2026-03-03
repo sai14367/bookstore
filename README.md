@@ -226,13 +226,3 @@ spring.datasource.password=yourpassword
 **Venkata Sai Kumar**  
 Information Technology Student  
 Backend Development Enthusiast  
-
----
-
-## 💼 Resume Description
-
-> Developed a secure RESTful Bookstore API using Spring Boot 3 with JWT authentication, layered architecture, DTO pattern, validation, and Swagger documentation.
-
----
-
-⭐ If you found this project useful, consider giving it a star!
